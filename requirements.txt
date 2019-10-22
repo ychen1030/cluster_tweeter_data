@@ -1,4 +1,4 @@
-Pillow==3.0.0
+Pillow==6.2.0
 backports-abc==0.4
 backports.ssl-match-hostname==3.5.0.1
 ipykernel==4.2.2
